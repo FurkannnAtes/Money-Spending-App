@@ -1,0 +1,26 @@
+[
+        {
+            "id":1,
+            "title":"Chewing gum",
+            "price": 0.5,
+            "imgURL":"https://st1.myideasoft.com/idea/hf/31/myassets/products/083/falim-5li-damla-20-18-1223-jpg.jpeg?revision=1617187044"
+        },
+        {
+            "id":2,
+            "title":"Cola",
+            "price": 6,
+            "imgURL":"https://pepsi.com.tr/uploads/assets/media/can_blue.webp"
+        },
+        {
+            "id":3,
+            "title":"Shoe",
+            "price": 400,
+            "imgURL":"https://contents.mediadecathlon.com/p1788716/k$dba6672ef20f40b9e8ae9e531f844490/sq/cocuk-krampon-futbol-ayakkabisi-siyah-kirmizi-agility-100-fg.jpg?format=auto&f=646x646"
+        },
+        {
+            "id":4,
+            "title":"Car",
+            "price": 40000,
+            "imgURL":"https://imagecdn.leasingoptions.co.uk/fit-in/750x500/image/vehicles/ids/vauxhall/corsa/corsa-hatchback/1.2-turbo-elite-5dr/95071/front_view/dea5edf8-e4b3-4352-927a-afd892539c5e.jpg"
+        }
+    ]
